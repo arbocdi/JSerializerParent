@@ -1,0 +1,34 @@
+<ship>
+   <pilots class="java.util.LinkedList">
+      <pilot>
+         <id>01</id>
+         <name>Arboc Digambara</name>
+         <skillpoints>1123</skillpoints>
+      </pilot>
+      <pilot>
+         <name>Maya Lightbringer</name>
+         <skillpoints>1156</skillpoints>
+      </pilot>
+   </pilots>
+   <modules class="java.util.HashMap">
+      <entry>
+         <string>cannon</string>
+         <module>
+            <name>1400 Artillery II</name>
+            <description>Minmatar rulez!</description>
+         </module>
+      </entry>
+      <entry>
+         <string>forgot to install</string>
+         <module/>
+      </entry>
+      <entry>
+         <string>lazer</string>
+         <module>
+            <name>Super Mega Cannon Lazer</name>
+            <description>Голактега опасносте!11</description>
+         </module>
+      </entry>
+   </modules>
+   <price>1020</price>
+</ship>
